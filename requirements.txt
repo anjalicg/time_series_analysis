@@ -1,0 +1,6 @@
+pandas
+numpy
+pycountry-convert
+plotly
+Pillow
+kaleido
